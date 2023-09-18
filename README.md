@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ### :mortar_board:Education
 - **학사** : 한림대학교 콘텐츠IT 전공  2017 - 2021 <br>
   - ICT융합 복수전공 <br>
-##- **졸업** : 원주고등학교 2014 - 2017 <br>
 
 
 ### :four_leaf_clover:전공지식 및 Skill
