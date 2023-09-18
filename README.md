@@ -42,7 +42,5 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=psj1561&show_icons=true&locale=en&layout=compact" alt="psj1561" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=psj1561&show_icons=true&locale=en" alt="psj1561" /></p>  
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=psj1561&" alt="psj1561" /></p>  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psj1561&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=psj1561&show_icons=true">
