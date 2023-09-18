@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **psj1561/psj1561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,7 +42,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vioeon&show_icons=true&locale=en&layout=compact" alt="Vioeon" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=Vioeon&show_icons=true&locale=en" alt="Vioeon" /></p>  
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vioeon&" alt="Vioeon" /></p>  
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=psj1561&show_icons=true&locale=en&layout=compact" alt="psj1561" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=psj1561&show_icons=true&locale=en" alt="psj1561" /></p>  
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=psj1561&" alt="psj1561" /></p>  
 
