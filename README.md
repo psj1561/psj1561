@@ -33,6 +33,9 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Unity-3178C6?style=flat&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=white"/>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 <br>
 
 
