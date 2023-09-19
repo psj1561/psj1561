@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 아두이노를 이용한 다양한 센서 활용 <br>
 
  <img src="https://img.shields.io/badge/Unity-3178C6?style=flat&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=white"/>
-
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 <br>
 
