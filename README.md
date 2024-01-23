@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 ### :mortar_board:Education
 - **학사** : 한림대학교 콘텐츠IT 전공  2017 - 2021 <br>
-  - ICT융합 복수전공 <br>
+  - ICT융합 복수전공 (딥러닝개발) <br>
 
 
 ### :four_leaf_clover:전공지식 및 Skill
-- Java, JS, C, C++, C# Python 언어를 사용한 개발 경험 <br>
+- JSP기반 풀스텍 WEB개발 경험 (Spring, Oracle)
+- Java, JS, C, C++, Python 언어를 사용한 개발 경험 <br>
 - Unity를 이용한 2d/3d 게임 개발 <br>
 - Unity 기반의 VR/AR 콘텐츠 제작 <br>
 - 아두이노를 이용한 다양한 센서 활용 <br>
@@ -41,9 +42,10 @@ Here are some ideas to get you started:
 <br>
 
 ### 🛠️ Tool
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Spring] (https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unity](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Aduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 <br>
 
